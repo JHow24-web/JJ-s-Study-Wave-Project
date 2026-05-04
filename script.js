@@ -1,7 +1,7 @@
 const tracks = [
   { title: "Chill Lofi",   artist: "Pixabay",   src: "songs/ChillLOFI.mp3" },
-  { title: "STUDYTIME",   artist: "Artist Two",   src: "songs/LOFI.mp3" },
-  { title: "ATARI", artist: "Artist Three", src: "songs/MARIO.mp3" },
+  { title: "STUDYTIME",   artist: "Pixabay",   src: "songs/LOFI.mp3" },
+  { title: "ATARI", artist: "Pixabay", src: "songs/MARIO.mp3" },
   { title: "Float Away",   artist: "Pixabay",   src: "songs/WatermelonLOFI.mp3" },
 ];
 let current = 0;
